@@ -1,0 +1,7 @@
+{
+    "nama" : "Filbert Wijaya",
+    "umur" : 20,
+    "nim" : 233303030010,
+    "lulus" : true,
+    "hobby" : ["gaming", "tidur"]
+}
